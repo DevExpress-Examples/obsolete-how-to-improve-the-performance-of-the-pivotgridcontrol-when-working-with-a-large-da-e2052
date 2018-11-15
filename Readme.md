@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/Q248188/MainForm.cs) (VB: [MainForm.vb](./VB/Q248188/MainForm.vb))
+* [Program.cs](./CS/Q248188/Program.cs) (VB: [Program.vb](./VB/Q248188/Program.vb))
+<!-- default file list end -->
 # OBSOLETE: How to improve the performance of the PivotGridControl when working with a large data source
 
 
