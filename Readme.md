@@ -2,3 +2,5 @@
 
 - [Database Server Mode](https://docs.devexpress.com/WindowsForms/17856/controls-and-libraries/pivot-grid/binding-to-data/database-server-mode?p=netframework)
 - [Optimized Calculation Engine](https://docs.devexpress.com/CoreLibraries/401367/devexpress-pivot-grid-core-library/data-processing-engines/pivot-grid-optimized-calculation-engine?p=netframework)
+
+The current repository will not be updated in the future.
